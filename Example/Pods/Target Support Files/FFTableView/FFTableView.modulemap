@@ -1,0 +1,6 @@
+framework module FFTableView {
+  umbrella header "FFTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

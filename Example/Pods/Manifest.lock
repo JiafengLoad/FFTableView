@@ -1,0 +1,16 @@
+PODS:
+  - FFTableView (0.1.0)
+
+DEPENDENCIES:
+  - FFTableView (from `../`)
+
+EXTERNAL SOURCES:
+  FFTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFTableView: fe89f19af7d00bfda77d957981ad8296e9719a96
+
+PODFILE CHECKSUM: 8224ba5fca41d994c994cf386c2e09e33f0bc84c
+
+COCOAPODS: 1.7.5
