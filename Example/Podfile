@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FFTableView_Example' do
+  pod 'FFTableView', :path => '../'
+
+  target 'FFTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
